@@ -1874,6 +1874,9 @@
     "dns": {
       "SOA": "\\.hostpoint\\.ch"
     },
+    "meta": {
+      "Author": "Hostpoint AG"
+    },
     "icon": "Hostpoint.svg",
     "pricing": [
       "low",
